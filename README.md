@@ -1,2 +1,2 @@
 # OBSS-Code-Master-2022-Final-Round
-Final project given in final round of OBSS Code Master.
+Each competetor had 210 minutes to finish whole project. You can take a look to the definition of the work in CodeMasterFinal.pdf which is located in the definition folder. Also base and extended test results are included in 'test results' folder.
