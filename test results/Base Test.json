@@ -1,0 +1,133 @@
+{
+	"id": "bbaad67a-8dfa-4185-ae97-216fb23aa813",
+	"name": "CM 2022 Final Round Base Test",
+	"timestamp": "2022-03-05T18:38:15.483Z",
+	"collection_id": "0-e8ef05b2-7f98-44fa-9c4e-109a1f263a5a",
+	"folder_id": 0,
+	"environment_id": "0f3b2dbc-9ef9-435e-ad1a-06b00d3eb5ed",
+	"totalPass": 15,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "a26fd10f-38c7-4a77-8414-5e052e734517",
+			"name": "Check If Main Requirements Are Met",
+			"url": "https://codemaster-2022-crawler.obss.io/v1/url-analyze?url=https://codemaster-2022-site.obss.io/",
+			"time": 4981,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response format is JSON": true,
+				"Main content format is OK": true,
+				"Reached link summary info format is OK": true,
+				"Internal link count is OK": true,
+				"External link count is OK": true,
+				"Scenario 1": true,
+				"Scenario 2": true,
+				"Scenario 3": true,
+				"Scenario 4": true,
+				"Scenario 5": true,
+				"Scenario 6": true,
+				"Scenario 7": true,
+				"Scenario 8": true,
+				"Scenario 9": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response format is JSON": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Main content format is OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Reached link summary info format is OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Internal link count is OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"External link count is OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Scenario 1": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Scenario 2": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Scenario 3": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Scenario 4": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Scenario 5": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Scenario 6": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Scenario 7": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Scenario 8": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Scenario 9": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				4981
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response format is JSON": true,
+					"Main content format is OK": true,
+					"Reached link summary info format is OK": true,
+					"Internal link count is OK": true,
+					"External link count is OK": true,
+					"Scenario 1": true,
+					"Scenario 2": true,
+					"Scenario 3": true,
+					"Scenario 4": true,
+					"Scenario 5": true,
+					"Scenario 6": true,
+					"Scenario 7": true,
+					"Scenario 8": true,
+					"Scenario 9": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 4981,
+	"collection": {
+		"requests": [
+			{
+				"id": "a26fd10f-38c7-4a77-8414-5e052e734517",
+				"method": "GET"
+			}
+		]
+	}
+}
